@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Carrot juice",
+      "price": "3",
+      "id": 1
+    },
+    {
+      "name": "Apple juice",
+      "price": "9",
+      "id": 2
+    },
+    {
+      "name": "Coconut water",
+      "price": "3",
+      "id": 3
+    },
+    {
+      "name": "Lemon juice",
+      "price": "2",
+      "id": 4
+    },
+    {
+      "name": "Strawberry juice",
+      "price": "2",
+      "id": 5
+    },
+    {
+      "name": "Berry juice",
+      "price": "2",
+      "id": 7
+    },
+    {
+      "name": "prod22",
+      "price": 34,
+      "id": 9
+    },
+    {
+      "name": "new prod",
+      "price": 343,
+      "id": 10
+    }
+  ]
+}
