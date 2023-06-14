@@ -1,8 +1,7 @@
 
 # Installation
 
-1. Open first terminal 
-   
+
 ```
 npm install
 ```
@@ -32,13 +31,13 @@ as a separate file). There will be no watch mode, and the build process will exi
 npm run dev
 ```
 
-2. Start the local server:
+1. Start the local server:
 
 ```
 npm start
 ```
 
-3. Open the browser at the url specified in the terminal.
+2. Open the browser at the url specified in the terminal.
 
 
 Add/edit React files in the src folder. After saving, your files are built automaticallty. The file
@@ -48,16 +47,15 @@ browser window.
 
 ### DB Server 
 
-1. Open Third Terminal
 
-2. Install globally the fake API server [json-server](https://github.com/typicode/json-server) I used to focalize in Redux:
+1. Install globally the fake API server [json-server](https://github.com/typicode/json-server) I used to focalize in Redux:
 ```
 npm install -g json-server
 ```
 
-3. The backend with json-server:
+2. The backend with json-server:
 ```
-json-server --watch db.json --port 6000
+json-server --watch db.json --port 4000
 ```
 
 
