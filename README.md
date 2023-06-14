@@ -55,7 +55,7 @@ npm install -g json-server
 
 2. The backend with json-server:
 ```
-json-server --watch db.json --port 4000
+json-server --watch db.json --port 6000
 ```
 
 

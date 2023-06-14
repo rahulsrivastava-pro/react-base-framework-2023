@@ -5,6 +5,9 @@ const config = {
     filename: './js/bundle.js',
     path: __dirname + '/public',
   },
+  resolve: {
+    preferRelative: true,
+  },
   module: {
     rules: [
       {
